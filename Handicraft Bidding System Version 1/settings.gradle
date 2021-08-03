@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Handicraft Bidding System Version 1"

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "36570860101",
+    "project_id": "fyp-v1-16",
+    "storage_bucket": "fyp-v1-16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36570860101:android:551eb712f3f4947f0c712c",
+        "android_client_info": {
+          "package_name": "com.haseebahmed.handicraftbiddingsystemversion1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36570860101-salu868eifoqbjgct74q3vo78u438u3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhiIxpwVDcowTVh7QrUsQ6vF8JRlRtjUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36570860101-salu868eifoqbjgct74q3vo78u438u3o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
